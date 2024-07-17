@@ -1,0 +1,13 @@
+{
+  "testEnvironment": "jsdom",
+  "moduleFileExtensions": [
+    "js",
+    "jsx"
+  ],
+  "roots": [
+    "src"
+  ],
+  "setupFilesAfterEnv": [
+    "<rootDir>/src/setupTests.js"
+  ]
+}
